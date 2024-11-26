@@ -1,0 +1,20 @@
+2024-11-15 21:31:53,851 - INFO - Computer information collected successfully.
+2024-11-15 21:31:55,022 - INFO - Screenshot captured successfully.
+2024-11-15 21:31:56,756 - INFO - Camera photo captured successfully.
+2024-11-15 21:31:56,822 - INFO - Attachment syseminfo.txt added to email.
+2024-11-15 21:31:56,845 - INFO - Attachment screenshot.png added to email.
+2024-11-15 21:31:56,903 - INFO - Attachment camera_photo.png added to email.
+2024-11-15 21:31:59,712 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-724771ffd76sm1519275b3a.177 - gsmtp')
+2024-11-15 21:31:59,713 - INFO - File syseminfo.txt deleted successfully.
+2024-11-15 21:31:59,714 - INFO - File screenshot.png deleted successfully.
+2024-11-15 21:31:59,714 - INFO - File camera_photo.png deleted successfully.
+2024-11-15 21:33:54,222 - INFO - Computer information collected successfully.
+2024-11-15 21:33:55,448 - INFO - Screenshot captured successfully.
+2024-11-15 21:33:57,094 - INFO - Camera photo captured successfully.
+2024-11-15 21:33:57,143 - INFO - Attachment syseminfo.txt added to email.
+2024-11-15 21:33:57,168 - INFO - Attachment screenshot.png added to email.
+2024-11-15 21:33:57,230 - INFO - Attachment camera_photo.png added to email.
+2024-11-15 21:33:59,770 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-2ea06f9c643sm2948200a91.41 - gsmtp')
+2024-11-15 21:33:59,771 - INFO - File syseminfo.txt deleted successfully.
+2024-11-15 21:33:59,772 - INFO - File screenshot.png deleted successfully.
+2024-11-15 21:33:59,772 - INFO - File camera_photo.png deleted successfully.
