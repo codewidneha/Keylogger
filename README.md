@@ -97,22 +97,25 @@ In this project, I’ve also created two additional frontends to enhance the use
 
 ---
 
-### **Screenshots**
+# Keylogger Project
+
+## Screenshots
 
 #### **1. AuthApp Login Page:**
-![AuthApp Login Page 1](file:///Users/Neha_Kohli/Desktop/authapp-login-page-screenshot1.png)
-![AuthApp Login Page 2](file:///Users/Neha_Kohli/Desktop/authapp-login-page-screenshot2.png)
+![AuthApp Login Page 1](assets/screenshots/authapp-login-page-1.png)
+![AuthApp Login Page 2](assets/screenshots/authapp-login-page-2.png)
 
 #### **2. Medicare Hospital Frontend:**
-![Medicare Hospital Frontend 1](file:///Users/Neha_Kohli/Desktop/medicare-hospital-frontend-screenshot1.png)
-![Medicare Hospital Frontend 2](file:///Users/Neha_Kohli/Desktop/medicare-hospital-frontend-screenshot2.png)
+![Medicare Hospital Frontend 1](assets/screenshots/medicare-hospital-frontend-screenshot1.png)
+![Medicare Hospital Frontend 2](assets/screenshots/medicare-hospital-frontend-screenshot2.png)
 
 #### **3. Keylogger Screenshots:**
-**Basic Keylogger in Action:**
-![Keylogger Screenshot 1](file:///Users/Neha_Kohli/Desktop/keylogger-screenshot1.png)
 
-**Advanced Keylogger with Screen Recording:**
-![Keylogger Screenshot 2](file:///Users/Neha_Kohli/Desktop/keylogger-screenshot2.png)
+**Basic Keylogger in Action:**
+![Keylogger Screenshot 1](assets/screenshots/keylogger-basic-mode.png)
+
+**Terminal Mode Keylogger:**
+![Keylogger Screenshot 2](assets/screenshots/keylogger-Terminal-mode.png)
 
 ---
 
