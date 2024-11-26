@@ -1,4 +1,5 @@
 
+
 # 🔑 **Keylogger** 🔑
 
 A simple and efficient keylogger designed to capture and log keystrokes. This project includes a **basic keylogger** that only captures keystrokes, and an **advanced keylogger** that captures screenshots, records the screen, and sends the logs to the authorities. This project is intended for educational purposes only. Please use responsibly and ensure you have proper permissions before use.
@@ -99,12 +100,19 @@ In this project, I’ve also created two additional frontends to enhance the use
 ### **Screenshots**
 
 #### **1. AuthApp Login Page:**
-![AuthApp Login Page](path/to/authapp-login-page-screenshot1.png)
-![AuthApp Login Page](path/to/authapp-login-page-screenshot2.png)
+![AuthApp Login Page 1](file:///Users/Neha_Kohli/Desktop/authapp-login-page-screenshot1.png)
+![AuthApp Login Page 2](file:///Users/Neha_Kohli/Desktop/authapp-login-page-screenshot2.png)
 
 #### **2. Medicare Hospital Frontend:**
-![Medicare Hospital Frontend](path/to/medicare-hospital-frontend-screenshot1.png)
-![Medicare Hospital Frontend](path/to/medicare-hospital-frontend-screenshot2.png)
+![Medicare Hospital Frontend 1](file:///Users/Neha_Kohli/Desktop/medicare-hospital-frontend-screenshot1.png)
+![Medicare Hospital Frontend 2](file:///Users/Neha_Kohli/Desktop/medicare-hospital-frontend-screenshot2.png)
+
+#### **3. Keylogger Screenshots:**
+**Basic Keylogger in Action:**
+![Keylogger Screenshot 1](file:///Users/Neha_Kohli/Desktop/keylogger-screenshot1.png)
+
+**Advanced Keylogger with Screen Recording:**
+![Keylogger Screenshot 2](file:///Users/Neha_Kohli/Desktop/keylogger-screenshot2.png)
 
 ---
 
@@ -140,9 +148,6 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 - **Remote Logging** to send logs to a secure server.
 - **UI Interface** for easy management and configuration of the keylogger.
 
-
-
-This version should now be more engaging, with clear sections for keylogger types and frontend visualizations. Let me know if you need any more changes or additions! 😊
 
 
 
